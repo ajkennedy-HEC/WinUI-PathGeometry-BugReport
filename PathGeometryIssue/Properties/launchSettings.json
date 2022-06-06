@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PathGeometryIssue (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PathGeometryIssue (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
